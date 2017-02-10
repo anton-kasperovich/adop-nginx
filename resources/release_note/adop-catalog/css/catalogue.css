@@ -1,7 +1,6 @@
 .services .description {
-	height:44px
+	height:44px;
 }
 .services img {
-	min-height: 100px;
-	max-height: 200px; 
+	padding: 6%; 
 }

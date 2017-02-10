@@ -69,6 +69,12 @@
                         "img": "img/phpldapadmin.png",
                         "description": "Browser to manage your LDAP server",
                         "link": "/ldap-phpadmin/"
+                    },
+                    {
+                        "id": "adop-catalog",
+                        "title": "ADOP Catalog",
+                        "description": "Install platform extensions with ease",
+                        "link": "/adop-catalog/"
                     }
                 ]
             }
